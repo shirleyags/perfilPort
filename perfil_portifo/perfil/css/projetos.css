@@ -1,0 +1,40 @@
+*{
+    line-height: 30px;
+}
+main{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.foto_proj{
+    box-sizing: border-box;
+    margin-bottom: 60px;
+    height: 400px;
+    width: 400px;
+    border-radius: 1000px;
+}
+.lista_geral_projetos{
+    margin-bottom: 100px;
+
+}
+
+.lista_geral_projetos li{
+    margin-bottom: 30px;;
+
+}  
+.lista_geral_projetos li h2{
+    font-weight: bold;
+    color:#F8F8FF;
+    background-color:#4B0082;
+    padding: 5px 10px;
+    margin-bottom: 5px;;
+}
+.explicacao{
+    font-weight: bold;
+}
+.linguagem_projeto{
+    text-transform: uppercase;
+    font-weight: bolder;
+    color:#FF0000;
+}
+
